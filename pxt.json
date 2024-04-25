@@ -2,15 +2,19 @@
     "name": "addTools",
     "description": "",
     "dependencies": {
-        "core": "*",
-        "microphone": "*"
+        "core": "*"
     },
     "files": [
         "main.blocks",
         "main.ts",
         "README.md",
         "lights.ts",
-        "time.ts"
+        "time.ts",
+        "serial.ts",
+        "sound.ts",
+        "motors.ts",
+        "sensors.ts",
+        "remote.ts"
     ],
     "testFiles": [
         "test.ts"
